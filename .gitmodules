@@ -1,0 +1,4 @@
+[submodule "funchook"]
+	path = funchook
+	url = https://github.com/kubo/funchook.git
+	branch = v1.x

@@ -1,0 +1,7 @@
+## useage
+1. python build_hook_ext.py
+it will generate the hook extension at ./hook/ 
+
+2. python str_con_hook_test.py
+
+if hook worked, the `OK, str concat is hooked` or `OK, str append is hooked` will appear, depending on the specific implementation.
